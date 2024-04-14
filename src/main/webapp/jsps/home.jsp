@@ -9,14 +9,14 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to LinkPay Web application Project.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
+<h1 align="center">Welcome to LinkPay Web Application Project.</h1>
+<h2 align="center">We are developing and supporting quality Software Solutions to clients globally.
 	           We are raising billionaires IT professionals accross the nations of the World.
 	We offer Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
         TechLink Academy - Your Link To A Bold New World of Technology.
 	Session 102 will start on April 25, 2024.
         Please invite all your contacts and friends for this life changing course.
-</h1>
+</h2>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
