@@ -39,7 +39,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
                 TechLink Academy, 
-		Frisco, Texas
+		Dallas, Texas
 		+1 309-610-0057,
 		info@upgrade101.net
 		<br>
