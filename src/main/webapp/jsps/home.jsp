@@ -14,7 +14,7 @@
 	           We are raising billionaires IT professionals accross the nations of the World.
 	We offer Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
         TechLink Academy - Your Link To A Bold New World of Technology.
-	Session 102 will start on June 17, 2026.
+	Session 102 will start on June 17, 2023.
         Please invite all your contacts and friends for this life changing course.
 </h2>
 <hr>
